@@ -7,7 +7,7 @@ This exercise displays a set of eyes that follow the movement of your mouse. The
 This exercise can be run by forking the repository (button in upper left), cloning it to your machine, and dragging the index.html file into your browser window. The exercise can also be run from [here](https://russellpropert.github.io/MIT-MERN/08week/Eye_Movement_Assignment/index.html).
 
 ## Future Improvements
-I may add an object that follows the mouse clicks of the user, so the eyes follow the object instead of the mouse pointer.
+Adding an object that follows the mouse clicks of the user and making the eyes follow the object instead of the mouse pointer.
 
 ## MIT License
 Copyright (c) 2020 John Williams
