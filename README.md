@@ -1,7 +1,7 @@
 # Eye Excercise
 
 ## Description
-This exercise displays a set of eyes that follow the movement of your mouse. The project was built with CSS and JavaScript.
+This exercise displays a set of eyes that follow the movement of your mouse. The project was built with HTML, CSS, and JavaScript.
 
 ## How To Run
 This exercise can be run by forking the repository (button in upper left), cloning it to your machine, and dragging the index.html file into your browser window. The exercise can also be run from [here](https://russellpropert.github.io/MIT-MERN/08week/Eye_Movement_Assignment/index.html).
