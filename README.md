@@ -10,7 +10,7 @@ This exercise can be run by forking the repository (button in upper left), cloni
 Adding an object that follows the mouse clicks of the user and making the eyes follow the object instead of the mouse pointer.
 
 ## MIT License
-Copyright (c) 2020 John Williams
+Copyright (c) 2021 Russell Propert
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
