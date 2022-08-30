@@ -4,7 +4,7 @@
 This exercise displays a set of eyes that follow the movement of your mouse. The project was built with HTML, CSS, and JavaScript.
 
 ## How To Run
-Fork the repository (button in upper left) and clone it to your machine. Drag the index.html file into your browser window. The exercise can also be run from [here](https://russellpropert.github.io/eye-exercise/index.html).
+Fork the repository, clone it to your machine, and drag the index.html file into your browser window. The exercise can also be run from [here](https://russellpropert.github.io/eye-exercise/index.html).
 
 ## Future Improvements
 Adding an object that follows the mouse clicks of the user and making the eyes follow the object instead of the mouse pointer.
