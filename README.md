@@ -1,4 +1,4 @@
-# Eye Excercise
+# Eye Exercise
 
 ## Description
 This exercise displays a set of eyes that follow the movement of your mouse. The project was built with HTML, CSS, and JavaScript.
